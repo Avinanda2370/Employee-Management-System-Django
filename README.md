@@ -41,3 +41,8 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 
 **License**
 The news website is open-source software released under the MIT License. Feel free to use, modify, and distribute the code as needed.
+![Screenshot (350)](https://github.com/Avinanda2370/Employee-Management-System-Django/assets/102664151/c05bfbe5-815e-4e54-90a2-70ced2d2231e)
+![Screenshot (351)](https://github.com/Avinanda2370/Employee-Management-System-Django/assets/102664151/3db70a52-c16a-4d29-8ba8-7e29741529a0)
+![Screenshot (352)](https://github.com/Avinanda2370/Employee-Management-System-Django/assets/102664151/c00711b0-6985-4d8c-a3e2-fcd8512265fd)
+![Screenshot (349)](https://github.com/Avinanda2370/Employee-Management-System-Django/assets/102664151/be35b2cd-bcb7-4121-8be2-05d659e467da)
+
